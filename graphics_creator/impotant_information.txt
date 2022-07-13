@@ -1,0 +1,11 @@
+This library is a Python project for creating graphs. At the moment,
+I'm the only one involved in the creation and support of the project,
+but the work is in progress.
+
+Developer - Ne1TPON (Vlad Nikulin)
+
+Feedback:
+
+Email -
+ nikulin.vlad07@mail.ru
+Version - 1.0.1
